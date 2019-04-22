@@ -1,5 +1,5 @@
 def my_hash
-  "Ricky" => {
+  Ricky = {
     age: 29,
     favorite_basketball_team: "Boston Celtics"
   }
